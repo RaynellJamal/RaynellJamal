@@ -3,6 +3,9 @@ Whats up, my name is Raynell! I am currelty challenging myself to learn how to c
 
 So let the journey begin!
 
+##Skills
+*HTML, CSS, Bootstrap
+
 ## Currently Learning
 * 💻, HTML,CSS, Flebox, Grid, Javascript, ReactJs
 
