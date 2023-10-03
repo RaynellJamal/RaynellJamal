@@ -17,7 +17,8 @@ I'm thrilled to combine my enthusiasm for creativity with my email development e
 * Photoshop
 * Figma
 * Google Analytics
-* ESP: Salesforce, Hubspot
+* Salesforce
+* Litmus/Email on Acid
 
 
 ## Follow Me
