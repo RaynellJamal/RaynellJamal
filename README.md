@@ -3,7 +3,7 @@ Hey, what's up! My name is Raynell, I am an Email Developer who brings a unique 
 
 When I'm not coding and designing emails, you can find me flipping through stacks of vinyl records at local record shops, searching for hidden gems and lost classics. Just like a well-curated vinyl collection, email campaigns should be a carefully curated experience for the audience, blending creativity and precision to strike a chord.
 
-I'm excited to merge my passion for music with my email development skills to create engaging and harmonious email campaigns that resonate with audiences. Let's work together to turn your email marketing efforts into a symphony of success.
+I'm thrilled to combine my enthusiasm for creativity with my email development expertise to craft compelling and seamless email campaigns that connect with your audience. Let's collaborate to transform your email marketing initiatives into a harmonious journey toward success.
 
 
 
