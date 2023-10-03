@@ -1,7 +1,11 @@
 ![](https://github.com/RaynellJamal/RaynellJamal/blob/main/banner.png)
-Whats up, my name is Raynell! I am currelty challenging myself to learn how to code so that I can switch careers. Growing up I always had a passion for tech. I thought learning how to program was something only for super smart people. I spent the last year thinking about learning and I tried multiple times but I allowed life to get in the way. Now I'm determined more than ever to learn and switch careers. I have a few friends that are in the industry, and they all encouraged me to learn. So one of my main goals this year is to become a frontend developer. I know I have a very difficutlt journey ahead of me, but I know I have what it takes. 
+Hey, what's up! My name is Raynell, I am an Email Developer who brings a unique blend of technical expertise and a deep love for music and vinyl records. My journey in email development began with a fascination for how art and technology intersect, much like the grooves on a vinyl record. I've honed my skills in crafting pixel-perfect email campaigns while staying true to my musical roots.
 
-So let the journey begin!
+When I'm not coding and designing emails, you can find me flipping through stacks of vinyl records at local record shops, searching for hidden gems and lost classics. Just like a well-curated vinyl collection, email campaigns should be a carefully curated experience for the audience, blending creativity and precision to strike a chord.
+
+I'm excited to merge my passion for music with my email development skills to create engaging and harmonious email campaigns that resonate with audiences. Let's work together to turn your email marketing efforts into a symphony of success.
+
+
 
 
 
