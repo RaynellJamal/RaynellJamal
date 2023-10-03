@@ -1,4 +1,4 @@
-![](https://github.com/RaynellJamal/RaynellJamal/blob/main/Github%20banner.png)
+![](https://github.com/RaynellJamal/RaynellJamal/blob/main/banner.png)
 Whats up, my name is Raynell! I am currelty challenging myself to learn how to code so that I can switch careers. Growing up I always had a passion for tech. I thought learning how to program was something only for super smart people. I spent the last year thinking about learning and I tried multiple times but I allowed life to get in the way. Now I'm determined more than ever to learn and switch careers. I have a few friends that are in the industry, and they all encouraged me to learn. So one of my main goals this year is to become a frontend developer. I know I have a very difficutlt journey ahead of me, but I know I have what it takes. 
 
 So let the journey begin!
